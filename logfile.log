@@ -1,0 +1,169 @@
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-25T00:23:47.602Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-25T00:23:48.652Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-25T00:26:03.786Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-25T00:26:04.810Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-25T00:34:20.783Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-25T00:34:21.812Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-25T00:34:55.846Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-25T00:34:56.870Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-25T00:34:59.494Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-25T00:35:00.514Z"}
+{"message":"joi is not defined","stack":"ReferenceError: joi is not defined\n    at validateUser (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\models\\users.js:36:15)\n    at router.post (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\routes\\users.js:14:23)\n    at newFn (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:317:13)","level":"error","timestamp":"2019-02-25T00:36:39.670Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-25T00:37:07.941Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-25T00:37:08.965Z"}
+{"message":"joi is not defined","stack":"ReferenceError: joi is not defined\n    at validateUser (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\models\\users.js:36:15)\n    at router.post (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\routes\\users.js:14:23)\n    at newFn (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:317:13)","level":"error","timestamp":"2019-02-25T00:37:10.180Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-25T00:38:29.648Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-25T00:38:30.687Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-25T00:40:35.828Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-25T00:40:36.849Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-25T00:44:19.213Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-25T00:44:20.238Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-25T00:55:11.164Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-25T00:55:12.184Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-25T01:00:00.858Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-25T01:00:01.878Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:30:51.413Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:30:52.449Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:34:09.936Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:34:10.960Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:34:38.176Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:34:39.216Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:34:54.969Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:34:55.996Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:35:21.339Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:35:22.364Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:35:31.377Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:35:32.400Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:35:47.766Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:35:48.788Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:36:19.144Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:36:20.168Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:36:36.973Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:36:38.000Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:37:07.639Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:37:08.664Z"}
+{"message":"Unexpected token n in JSON at position 3","stack":"SyntaxError: Unexpected token n in JSON at position 3\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\body-parser\\lib\\types\\json.js:89:19)\n    at C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\body-parser\\lib\\read.js:121:18\n    at invokeCallback (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\raw-body\\index.js:224:16)\n    at done (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\raw-body\\index.js:273:7)\n    at IncomingMessage.emit (events.js:182:13)\n    at endReadableNT (_stream_readable.js:1094:12)\n    at process._tickCallback (internal/process/next_tick.js:63:19)","expose":true,"statusCode":400,"status":400,"body":"{\n\tname:\"salim\",\n\t\"email\": \"abdelrahman.salim12354@gmail.com\",\n\t\"password\": \"123245\"\n}","type":"entity.parse.failed","level":"error","timestamp":"2019-02-26T12:38:38.221Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:40:15.495Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:40:16.518Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:40:36.014Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:40:37.037Z"}
+{"message":"Cannot read property 'findById' of undefined","stack":"TypeError: Cannot read property 'findById' of undefined\n    at router.get (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\routes\\toDoList.js:9:29)\n    at newFn (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\middleware\\auth.js:11:9)\n    at newFn (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2019-02-26T12:40:38.509Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:40:47.292Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:40:48.317Z"}
+{"message":"Users is not defined","stack":"ReferenceError: Users is not defined\n    at router.get (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\routes\\toDoList.js:9:18)\n    at newFn (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\middleware\\auth.js:11:9)\n    at newFn (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2019-02-26T12:40:48.609Z"}
+{"message":"Users is not defined","stack":"ReferenceError: Users is not defined\n    at router.get (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\routes\\toDoList.js:9:18)\n    at newFn (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\middleware\\auth.js:11:9)\n    at newFn (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2019-02-26T12:40:49.460Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:40:54.950Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:40:55.974Z"}
+{"message":"Users is not defined","stack":"ReferenceError: Users is not defined\n    at router.get (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\routes\\toDoList.js:9:18)\n    at newFn (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at module.exports (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\middleware\\auth.js:11:9)\n    at newFn (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\node_modules\\express\\lib\\router\\index.js:47:12)","level":"error","timestamp":"2019-02-26T12:41:00.059Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:41:06.696Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:41:07.724Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:41:30.739Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:41:31.770Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:41:39.089Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:41:40.121Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:45:02.049Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:45:03.073Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:46:50.577Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:46:51.608Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:46:55.384Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:46:56.410Z"}
+{"message":"Assignment to constant variable.","stack":"TypeError: Assignment to constant variable.\n    at router.get (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\routes\\toDoList.js:11:43)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error","timestamp":"2019-02-26T12:46:59.784Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:48:12.391Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:48:13.417Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:49:33.825Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:49:34.849Z"}
+{"message":"UserID is not defined","stack":"ReferenceError: UserID is not defined\n    at router.post (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\routes\\toDoList.js:26:9)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error","timestamp":"2019-02-26T12:49:41.154Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:50:03.292Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:50:04.317Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:50:35.297Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:50:36.320Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:52:01.485Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:52:02.508Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:52:30.522Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:52:31.548Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:53:39.847Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:53:40.872Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:54:08.447Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:54:09.472Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T12:56:37.769Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T12:56:38.796Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T13:21:15.662Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T13:21:16.685Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T13:23:04.402Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T13:23:05.426Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T13:23:16.126Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T13:23:17.149Z"}
+{"message":"Cannot read property 'items' of null","stack":"TypeError: Cannot read property 'items' of null\n    at router.post (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\routes\\toDoList.js:32:10)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error","timestamp":"2019-02-26T13:23:18.797Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T13:24:40.619Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T13:24:41.644Z"}
+{"message":"Cannot read property 'items' of null","stack":"TypeError: Cannot read property 'items' of null\n    at router.post (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\routes\\toDoList.js:32:22)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error","timestamp":"2019-02-26T13:24:42.564Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T13:25:13.967Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T13:25:14.990Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T13:25:44.509Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T13:25:45.533Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T13:26:57.204Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T13:26:58.236Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T13:34:34.000Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T13:34:35.027Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T13:35:15.838Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T13:35:16.863Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T13:36:10.074Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T13:36:11.096Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:03:36.405Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:03:37.430Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:04:50.852Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:04:51.874Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:04:59.093Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:05:01.280Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:05:02.307Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:05:03.687Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:05:04.713Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:06:04.467Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:06:05.490Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:06:19.859Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:06:20.882Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:06:33.955Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:06:34.980Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:12:33.739Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:12:34.763Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:15:03.085Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:15:04.108Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:16:02.400Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:16:03.425Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:21:31.865Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:21:32.888Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:26:42.969Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:26:43.988Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:27:46.084Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:27:47.107Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:31:41.416Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:31:42.441Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:32:18.077Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:32:19.102Z"}
+{"message":"Cannot read property 'items' of null","stack":"TypeError: Cannot read property 'items' of null\n    at router.post (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\routes\\toDoList.js:43:19)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error","timestamp":"2019-02-26T14:32:19.669Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:32:49.313Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:32:50.334Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:32:58.586Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:32:59.611Z"}
+{"message":"Cannot read property 'items' of null","stack":"TypeError: Cannot read property 'items' of null\n    at router.post (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\routes\\toDoList.js:43:19)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error","timestamp":"2019-02-26T14:33:02.234Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:34:04.075Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:34:05.104Z"}
+{"message":"Cannot read property 'items' of null","stack":"TypeError: Cannot read property 'items' of null\n    at router.post (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\routes\\toDoList.js:43:19)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error","timestamp":"2019-02-26T14:34:08.484Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:35:21.445Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:35:22.472Z"}
+{"message":"list.findOneAndUpdate is not a function","stack":"TypeError: list.findOneAndUpdate is not a function\n    at router.post (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\routes\\toDoList.js:33:10)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error","timestamp":"2019-02-26T14:35:25.832Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:35:55.219Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:35:56.243Z"}
+{"message":"list is not defined","stack":"ReferenceError: list is not defined\n    at router.post (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\routes\\toDoList.js:32:5)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error","timestamp":"2019-02-26T14:35:56.554Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:36:00.904Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:36:01.927Z"}
+{"message":"list is not defined","stack":"ReferenceError: list is not defined\n    at router.post (C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\routes\\toDoList.js:32:5)\n    at process._tickCallback (internal/process/next_tick.js:68:7)","level":"error","timestamp":"2019-02-26T14:36:03.663Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:36:24.856Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:36:25.878Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:38:22.681Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:38:24.856Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:38:25.879Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:39:26.152Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:39:27.174Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T14:39:32.565Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T14:39:33.588Z"}
