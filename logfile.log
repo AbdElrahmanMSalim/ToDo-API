@@ -197,3 +197,13 @@
 {"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T17:15:40.480Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T17:16:00.752Z"}
 {"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T17:16:01.778Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T21:15:51.179Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T21:15:52.201Z"}
+{"code":"PUG:INCONSISTENT_INDENTATION","msg":"Inconsistent indentation. Expecting either 0 or 12 spaces/tabs.","line":43,"column":1,"filename":"C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\views\\todo.pug"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T21:19:40.296Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T21:19:41.323Z"}
+{"code":"PUG:INCONSISTENT_INDENTATION","msg":"Inconsistent indentation. Expecting either 0 or 12 spaces/tabs.","line":43,"column":1,"filename":"C:\\Users\\AbdEl\\Desktop\\Node js\\ToDo-list\\views\\todo.pug"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T21:20:25.330Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T21:20:26.362Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T21:34:47.201Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T21:34:48.221Z"}
