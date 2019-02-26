@@ -207,3 +207,9 @@
 {"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T21:20:26.362Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T21:34:47.201Z"}
 {"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T21:34:48.221Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T21:34:50.980Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T21:34:52.010Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T22:33:36.420Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T22:33:37.442Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2019-02-26T22:33:42.589Z"}
+{"level":"info","message":"Connected to mongodb://localhost/todo","timestamp":"2019-02-26T22:33:43.616Z"}

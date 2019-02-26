@@ -15,7 +15,6 @@ router.get('/', auth, async (req, res) => {
     if(!list) return res.status(404).send("No list for the given user is found");
     
     res.send(list.items); 
-    // res.render('todo', {output: list.items})
 });
 
 
