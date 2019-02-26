@@ -21,6 +21,7 @@
     "lodash": "^4.17.11",
     "mongoose": "^5.4.15",
     "nodemon": "^1.18.10",
+    "pug": "^2.0.3",
     "supertest": "^3.4.2",
     "winston": "^2.4.0",
     "winston-mongodb": "^3.0.0"

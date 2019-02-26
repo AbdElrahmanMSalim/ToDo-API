@@ -2,9 +2,9 @@ const auth = require('../middleware/auth');
 const express = require('express');
 const router = express.Router();
 const {List, validateList} = require('../models/toDolist');
-const {Users, ValidateUser} = require('../models/users');
+const {Users} = require('../models/users');
 
-router.get('/',auth , async (req, res) => {
+router.get('/', auth, async (req, res) => {
     const userID = req.user;
     const user = await Users.findById(userID);
     if(!user) return res.send('no user in db by that name');
@@ -14,7 +14,8 @@ router.get('/',auth , async (req, res) => {
     });
     if(!list) return res.status(404).send("No list for the given user is found");
     
-    res.send(list.items); 
+    // res.send(list.items); 
+    res.render('todo', {output: list.items})
 });
 
 
