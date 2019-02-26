@@ -8,10 +8,12 @@ router.get('/',auth , async (req, res) => {
     const userID = req.user;
     const user = await Users.findById(userID);
     if(!user) return res.send('no user in db by that name');
+
     const list = await List.findOne({ 
         'userID': userID,
     });
     if(!list) return res.status(404).send("No list for the given user is found");
+    
     res.send(list.items); 
 });
 
